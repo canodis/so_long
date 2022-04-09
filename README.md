@@ -8,5 +8,7 @@ and ./so_long maps/{map_name}.ber  or  ./so_long_bonus maps/{map_name}.ber
 
 Keys : 
 W A S D -> move
+
 K -> hack
+
 ESC -> exit
